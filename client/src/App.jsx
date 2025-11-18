@@ -27,7 +27,7 @@ function App() {
           element={
             <div className="container py-5 text-center">
               <h1>Selamat datang</h1>
-              <p className="lead">silahkan pilih menu</p>
+              <p className="lead">silahkan pilih menuuuuu</p>
             </div>
           }
         />
